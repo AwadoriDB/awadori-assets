@@ -47,6 +47,6 @@ files/extracted/         extracted assets
 AGPL-3.0 license
 
 ## Credits
--- Reference 
+### Reference 
 [inspix-hailstorm](https://github.com/vertesan/inspix-hailstorm). (ported for awadori)
 [moenotes](https://github.com/StarMoe-org/moenotes) (huge reference)
